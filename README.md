@@ -1,16 +1,101 @@
-## Hi there 👋
+# 📊 Olaoluwa Chibuzor
+**`Data Analyst | Business & Operational Analytics`**
 
-<!--
-**OLACOLOGY/OLACOLOGY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Data+Analyst" /></a>
+<br>
+- I uncover insights from data to support **better decision-making and operational efficiency**.
+- Strong **engineering background** with hands-on experience in **manufacturing and FMCG analytics**.
+- Experienced in turning complex data into **clear stories for non-technical stakeholders**.
+- Passionate about **dashboarding, KPI tracking, and automation** that drive measurable impact.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skill Stack
+<!-- Skill icons provided by skill-icons. Full icon list and names:
+     https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list -->
+[![My Skills](https://skillicons.dev/icons?i=python,postgresql,mysql,sqlite,js,github,git&theme=light)](https://skillicons.dev)
+
+**Data & BI Tools:** Power BI, Excel, Google Sheets  
+**Languages & Query:** SQL, Python, DAX, JavaScript  
+**Python Libraries:** pandas, numpy  
+**Databases:** MySQL, PostgreSQL, SQLite  
+
+---
+
+## Projects – Showcase
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="#">
+        <img src="https://user-images.githubusercontent.com/placeholder/sales-dashboard.png"
+             alt="Sales Performance Dashboard"
+             style="width:100%; height:200px; object-fit:cover;"/>
+      </a>
+      <br/>
+      <b>Sales Performance Dashboard</b><br/>
+      <sub>Analyzed multi-channel sales data to identify performance trends.</sub><br/>
+      🔗 <a href="#">Repo</a>
+      <br/>
+      <sub>Impact: Identified an <b>18% revenue drop in Q3</b> and recommended channel reallocation.</sub>
+    </td>
+
+    <td align="center" width="33%">
+      <a href="#">
+        <img src="https://user-images.githubusercontent.com/placeholder/operations-dashboard.png"
+             alt="Manufacturing KPI Dashboard"
+             style="width:100%; height:200px; object-fit:cover;"/>
+      </a>
+      <br/>
+      <b>Manufacturing Operations KPI Dashboard</b><br/>
+      <sub>Designed KPIs to monitor production efficiency and downtime.</sub><br/>
+      🔗 <a href="#">Repo</a>
+      <br/>
+      <sub>Impact: Supported <b>reduced downtime</b> and improved operational efficiency.</sub>
+    </td>
+
+    <td align="center" width="33%">
+      <a href="#">
+        <img src="https://user-images.githubusercontent.com/placeholder/automation.png"
+             alt="Reporting Automation Project"
+             style="width:100%; height:200px; object-fit:cover;"/>
+      </a>
+      <br/>
+      <b>Reporting Automation Pipeline</b><br/>
+      <sub>Automated data cleaning and recurring reports using Python.</sub><br/>
+      🔗 <a href="#">Repo</a>
+      <br/>
+      <sub>Impact: Improved data accuracy and increased reporting efficiency.</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Stats
+<!-- Stats card by anuraghazra/github-readme-stats -->
+![Olaoluwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=gruvbox)
+
+---
+
+## Career Focus
+- 🎯 **Target Roles:** Data Analyst, Operations Analyst  
+- 🌍 **Open to Remote Opportunities**  
+- 🏭 **Domain Strengths:** Manufacturing, FMCG, Sales & Marketing Analytics  
+
+---
+
+## Links
+- 🌐 **Portfolio:** *(add your portfolio link)*  
+- 📧 **Email:** *olaoluwachibuzor1999@gmail.com*  
+- 💼 **LinkedIn:** *www.linkedin.com/in/olaoluwa-adetunji-479029225*  
+
+<a href="https://www.gmail.com/" target="blank">
+  <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+</a>
+<a href="https://www.linkedin.com/" target="blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+</a>
+
+
+<!-- Optional: remove GIF for a more corporate look, or replace with contribution streak -->
