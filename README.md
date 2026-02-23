@@ -27,7 +27,7 @@
 <table>
   <tr>
     <td align="center" width="33%">
-      <a href="#">
+      <a href="https://github.com/OLACOLOGY/Transaction_Project_Analysis">
         <img src="https://github.com/OLACOLOGY/Transaction_Project_Analysis/blob/main/image/Dashboard.png"
              alt="Fashion fusion Performance Dashboard"
              style="width:100%; height:200px; object-fit:cover;"/>
@@ -40,7 +40,7 @@
       <!-- <sub>Impact: Identified an <b>18% revenue drop in Q3</b> and recommended channel reallocation.</sub> -->
     </td>
   <td align="center" width="33%">
-      <a href="#">
+      <a href="https://github.com/OLACOLOGY/SQL_Project_Data_Analysis">
         <img src="https://github.com/OLACOLOGY/SQL_Project_Data_Analysis/raw/main/assets/1_Top%20Paying_Data_Analyst_Jobs.png"
              alt="Payement rate in data career"
              style="width:100%; height:200px; object-fit:cover;"/>
@@ -48,7 +48,7 @@
       <br/>
       <b> Top paying Data analyst jobs </b><br/>
       <sub> highlighting the high-paying positions and essential skills for data analyst</sub><br/>
-      🔗 <a href="https://github.com/OLACOLOGY/Transaction_Project_Analysis">Repo</a>
+      🔗 <a href="https://github.com/OLACOLOGY/SQL_Project_Data_Analysis">Repo</a>
       <br/>
       <!-- <sub>Impact: Identified an <b>18% revenue drop in Q3</b> and recommended channel reallocation.</sub> -->
     </td>
