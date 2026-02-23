@@ -28,45 +28,31 @@
   <tr>
     <td align="center" width="33%">
       <a href="#">
-        <img src="https://user-images.githubusercontent.com/placeholder/sales-dashboard.png"
-             alt="Sales Performance Dashboard"
+        <img src="https://github.com/OLACOLOGY/Transaction_Project_Analysis/blob/main/image/Dashboard.png"
+             alt="Fashion fusion Performance Dashboard"
              style="width:100%; height:200px; object-fit:cover;"/>
       </a>
       <br/>
       <b>Sales Performance Dashboard</b><br/>
       <sub>Analyzed multi-channel sales data to identify performance trends.</sub><br/>
-      🔗 <a href="#">Repo</a>
+      🔗 <a href="https://github.com/OLACOLOGY/Transaction_Project_Analysis">Repo</a>
       <br/>
-      <sub>Impact: Identified an <b>18% revenue drop in Q3</b> and recommended channel reallocation.</sub>
+      <!-- <sub>Impact: Identified an <b>18% revenue drop in Q3</b> and recommended channel reallocation.</sub> -->
     </td>
-
-    <td align="center" width="33%">
+  <td align="center" width="33%">
       <a href="#">
-        <img src="https://user-images.githubusercontent.com/placeholder/operations-dashboard.png"
-             alt="Manufacturing KPI Dashboard"
+        <img src="https://github.com/OLACOLOGY/SQL_Project_Data_Analysis/raw/main/assets/1_Top%20Paying_Data_Analyst_Jobs.png"
+             alt="Payement rate in data career"
              style="width:100%; height:200px; object-fit:cover;"/>
       </a>
       <br/>
-      <b>Manufacturing Operations KPI Dashboard</b><br/>
-      <sub>Designed KPIs to monitor production efficiency and downtime.</sub><br/>
-      🔗 <a href="#">Repo</a>
+      <b> Top paying Data analyst jobs </b><br/>
+      <sub> highlighting the high-paying positions and essential skills for data analyst</sub><br/>
+      🔗 <a href="https://github.com/OLACOLOGY/Transaction_Project_Analysis">Repo</a>
       <br/>
-      <sub>Impact: Supported <b>reduced downtime</b> and improved operational efficiency.</sub>
+      <!-- <sub>Impact: Identified an <b>18% revenue drop in Q3</b> and recommended channel reallocation.</sub> -->
     </td>
 
-    <td align="center" width="33%">
-      <a href="#">
-        <img src="https://user-images.githubusercontent.com/placeholder/automation.png"
-             alt="Reporting Automation Project"
-             style="width:100%; height:200px; object-fit:cover;"/>
-      </a>
-      <br/>
-      <b>Reporting Automation Pipeline</b><br/>
-      <sub>Automated data cleaning and recurring reports using Python.</sub><br/>
-      🔗 <a href="#">Repo</a>
-      <br/>
-      <sub>Impact: Improved data accuracy and increased reporting efficiency.</sub>
-    </td>
   </tr>
 </table>
 
